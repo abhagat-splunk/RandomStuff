@@ -10,3 +10,6 @@ So y here is the element of search space and x is from domain (x is index of arr
 x = low + (high - low)*(key - f(low))/(f(high) - f(low))
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\left&space;(&space;y-y_{1}&space;\right&space;)&space;=&space;\frac{y_{2}-y_{1}}{x_{2}&space;-&space;x_{1}}&space;*\left&space;(&space;x&space;-&space;x_{1}&space;\right&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\left&space;(&space;y-y_{1}&space;\right&space;)&space;=&space;\frac{y_{2}-y_{1}}{x_{2}&space;-&space;x_{1}}&space;*\left&space;(&space;x&space;-&space;x_{1}&space;\right&space;)" title="\left ( y-y_{1} \right ) = \frac{y_{2}-y_{1}}{x_{2} - x_{1}} *\left ( x - x_{1} \right )" /></a>
+
+
+Exponential search = searching in ranges + binary search in the interval found.
